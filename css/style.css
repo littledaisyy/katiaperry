@@ -121,35 +121,35 @@ h1{
   display: flex;
   justify-content: center;
   background-color: rgb(213, 129, 171);
-  height:20rem;
+  height: auto;
 }
 
 .proyectoo2{
   display: flex;
   justify-content: center;
   background-color: rgb(91, 161, 235);
-  height: 20rem;
+  height: auto;
 }
 
 .proyectoo3{
   display: flex;
   justify-content: center;
   background-color: rgb(141, 64, 204);
-  height: 20rem;
+  height: auto;
 }
 
 .proyectoo4{
   display: flex;
   justify-content: center;
   background-color: rgb(199, 37, 22);
-  height: 20rem;
+  height: auto;
 }
 
 .proyectoo5{
   display: flex;
   justify-content: center;
   background-color: rgb(199, 146, 22);
-  height: 20rem;
+  height: auto;
 }
 
 .proyectoo6{
@@ -157,18 +157,21 @@ h1{
   justify-content: center;
   background-color: rgb(43, 199, 22);
   height: 20rem;
+  height: auto;
 }
 
 .proyectoo7{
   display: flex;
   justify-content: center;
   background-color: rgb(173, 237, 63);
+  height: auto;
 }
 
 .proyectoo8{
   display: flex;
   justify-content: center;
   background-color: rgb(249, 77, 255);
+  height: auto;
 }
 
 .proyectoo9{
