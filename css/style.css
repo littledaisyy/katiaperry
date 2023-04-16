@@ -1,0 +1,179 @@
+*{
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'choclitos';
+  src: url(.../assets/natalia.ttf) format('truetype'); /* Ruta del archivo de fuente */
+}
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/*DESCRIPCION Y FOTO*/
+h1{
+  text-align: center;
+  
+}
+
+.introduccion{
+  background-color: aquamarine;
+  height:auto;
+}
+
+.descripcion::first-letter{
+  text-align: left;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.natalia{
+  background: forestgreen;
+  height: 23rem;
+}
+
+.fondo{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+/* TERMINA DESCRIPCION Y FOTO*/
+
+/* COMIENZAN PROYECTOS*/
+#titulo1{
+  display: flexbox;
+  font-size:3rem;
+}
+.proyectos{
+  background: darkgoldenrod;
+  height: 4rem;
+}
+
+.proyecto1{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(213, 129, 171);
+  height:10rem;
+}
+
+.proyecto2{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(91, 161, 235);
+  height: 10rem;
+}
+
+.proyecto3{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(141, 64, 204);
+  height: 10rem;
+}
+
+.proyecto4{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(199, 37, 22);
+  height: 10rem;
+}
+
+.proyecto5{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(199, 146, 22);
+  
+}
+
+.proyecto6{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(43, 199, 22);
+  
+}
+
+.proyecto7{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(173, 237, 63);
+}
+
+.proyecto8{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(249, 77, 255);
+}
+
+.proyecto9{
+  display: flexbox;
+  justify-content: center;
+  background-color: rgb(118, 172, 176);
+  height: auto;
+}
+/* TERMINAN PROYECTOS*/
+
+
+.proyectoo1{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(213, 129, 171);
+  height:20rem;
+}
+
+.proyectoo2{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(91, 161, 235);
+  height: 20rem;
+}
+
+.proyectoo3{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(141, 64, 204);
+  height: 20rem;
+}
+
+.proyectoo4{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(199, 37, 22);
+  height: 20rem;
+}
+
+.proyectoo5{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(199, 146, 22);
+  height: 20rem;
+}
+
+.proyectoo6{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(43, 199, 22);
+  height: 20rem;
+}
+
+.proyectoo7{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(173, 237, 63);
+}
+
+.proyectoo8{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(249, 77, 255);
+}
+
+.proyectoo9{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(118, 172, 176);
+  height: auto;
+}
