@@ -58,54 +58,56 @@ h1{
   display: flexbox;
   justify-content: center;
   background-color: rgb(213, 129, 171);
-  height:10rem;
+  height: auto;
 }
 
 .proyecto2{
   display: flexbox;
   justify-content: center;
   background-color: rgb(91, 161, 235);
-  height: 10rem;
+  height: auto;
 }
 
 .proyecto3{
   display: flexbox;
   justify-content: center;
   background-color: rgb(141, 64, 204);
-  height: 10rem;
+  height: auto;
 }
 
 .proyecto4{
   display: flexbox;
   justify-content: center;
   background-color: rgb(199, 37, 22);
-  height: 10rem;
+  height: auto;
 }
 
 .proyecto5{
   display: flexbox;
   justify-content: center;
   background-color: rgb(199, 146, 22);
-  
+  height: auto;
 }
 
 .proyecto6{
   display: flexbox;
   justify-content: center;
   background-color: rgb(43, 199, 22);
-  
+  height: auto;
 }
 
 .proyecto7{
   display: flexbox;
   justify-content: center;
   background-color: rgb(173, 237, 63);
+  height: auto;
 }
 
 .proyecto8{
   display: flexbox;
   justify-content: center;
   background-color: rgb(249, 77, 255);
+  height: auto;
 }
 
 .proyecto9{
